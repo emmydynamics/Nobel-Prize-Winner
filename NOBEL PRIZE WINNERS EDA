@@ -1,1 +1,24 @@
-##NOBEL PRIZE WINNERS EDA
+# NOBEL PRIZE WINNERS EDA
+
+-- answer saved in string
+top_gender = "Male"
+
+top_column = "United States of America"
+
+-- maximum decade of nobel price in us 
+max_decade_usa = 2000
+
+max_female_dict = {
+    2020: "Literature"
+}
+
+-- Answer first woman who recived a NP
+first_woman_name = "Marie Curie, née Sklodowska"
+
+-- Answer category of the first woman to win NP
+first_woman_category = "Physics"
+
+-- answer individual or organization wwho won more than one prize 
+repeat_list = ["Comité international de la Croix Rouge (International Committee of the Red Cross)",   
+"Linus Carl Pauling","John Bardeen","Frederick Sanger","Marie Curie, née Sklodowska","Office of the United Nations High Commissioner for Refugees (UNHCR)"] 
+print(repeat_list)
