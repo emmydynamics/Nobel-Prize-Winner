@@ -1,6 +1,12 @@
-# Project Instructions
 
-## Analyze Nobel Prize winner data and identify patterns by answering the following questions:
+# NOBEL PRIZE EDA 
+
+## Description: 
+The Nobel Prize has been among the most prestigious international awards since 1901. Each year, awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. In addition to the honor, prestige, and substantial prize money, the recipient also gets a gold medal with an image of Alfred Nobel (1833 - 1896), who established the prize. 
+
+## Project Instructions
+
+### Analyze Nobel Prize winner data and identify patterns by answering the following questions:
 
 1. What is the most commonly awarded gender and birth country?
 
