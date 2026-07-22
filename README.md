@@ -17,3 +17,11 @@ Who was the first woman to receive a Nobel Prize, and in what category?
 Which individuals or organizations have won more than one Nobel Prize throughout the years?
 
 6. Store the full names in a list named repeat_list
+
+
+### output from EDA
+
+<img width="539" height="486" alt="Screenshot 2026-07-22 112602" src="https://github.com/user-attachments/assets/182156a2-08bc-4a77-81bf-0e07e2fd5a20" />
+
+<img width="661" height="135" alt="Screenshot 2026-07-22 112644" src="https://github.com/user-attachments/assets/af6ac2a7-9280-4c9f-a2fc-b303adc9132f" />
+
